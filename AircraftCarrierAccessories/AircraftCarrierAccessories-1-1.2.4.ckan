@@ -18,11 +18,11 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://spacedock.info/mod/1068/Aircraft%20Carrier%20Accessories/download/1.4.0",
-    "download_size": 21169847,
+    "download": "https://spacedock.info/mod/1068/Aircraft%20Carrier%20Accessories/download/1.4.2",
+    "download_size": 19371225,
     "download_hash": {
-        "sha1": "1B7F7FB5CE48A2F8BA44501428F520329996B36E",
-        "sha256": "CDB9142895D73C9859A16D572F72C2AF4F4ADE779FE048B186AB30161EA3286A"
+        "sha1": "6EB00CAE787729DF3F714F6CA09B362329DAD2C9",
+        "sha256": "1E0CE74EEF325E67E8BEDC2FA4E54B7F4349E953212AE53093EB5AC38E24F2C2"
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
