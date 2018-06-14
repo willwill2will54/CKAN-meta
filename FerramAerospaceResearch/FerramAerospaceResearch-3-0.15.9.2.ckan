@@ -1,16 +1,16 @@
 {
     "spec_version": 1,
-    "identifier": "FAR-1-4patch",
+    "identifier": "FerramAerospaceResearch",
     "name": "Ferram Aerospace Research",
     "abstract": "FAR replaces KSP's stock part-centered aerodynamics model with one based on real-life physics.",
     "author": [
-        "Ferram4"
+        "ferram4"
     ],
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/19321-1"
     },
-    "version": "v0.15.9.1",
+    "version": "v0.15.9.2",
     "ksp_version": "1.4.3",
     "provides": [
         "AerodynamicModel",
