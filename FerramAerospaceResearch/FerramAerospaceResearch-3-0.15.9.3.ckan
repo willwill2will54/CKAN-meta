@@ -11,7 +11,8 @@
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/19321-1"
     },
     "version": "3:0.15.9.3",
-    "ksp_version": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "ksp_version_max": "1.4.99",
     "provides": [
         "AerodynamicModel",
         "FAR"
