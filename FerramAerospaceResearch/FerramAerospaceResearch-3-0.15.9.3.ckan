@@ -1,0 +1,47 @@
+{
+    "spec_version": 1,
+    "identifier": "FerramAerospaceResearch",
+    "name": "Ferram Aerospace Research",
+    "abstract": "FAR replaces KSP's stock part-centered aerodynamics model with one based on real-life physics.",
+    "author": [
+        "ferram4"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/19321-1"
+    },
+    "version": "v0.15.9.3",
+    "ksp_version": "1.4.9",
+    "provides": [
+        "AerodynamicModel",
+        "FAR"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AerodynamicModel"
+        }
+    ],
+    "install": [
+        {
+            "file": "Ferram-Aerospace-Research-master/GameData/FerramAerospaceResearch",
+            "install_to": "GameData",
+            "filter": "config.xml"
+        }
+    ],
+    "download": "https://github.com/rsparkyc/Ferram-Aerospace-Research/archive/master.zip",
+    "download_size": 853640,
+    "download_hash": {
+        "sha1": "9E7AC249CC81C50919C649C360D52CD6627F4874",
+        "sha256": "49B00748D9A0DA015E3C31A10128521CD4A8948B4D836297E97D80B88AB1F117"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
