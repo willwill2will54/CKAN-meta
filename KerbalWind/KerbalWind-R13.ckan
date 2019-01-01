@@ -21,7 +21,7 @@
     ],
     "depends": [
         {
-            "name": "FerramAerospaceResearch"
+            "name": "AerodynamicModel"
         }
     ],
     "recommends": [
