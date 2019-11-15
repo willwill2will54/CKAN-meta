@@ -6,11 +6,12 @@
     "author": "RocketInMyPocket",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169799-17wetterwings/",
         "spacedock": "https://spacedock.info/mod/1665/WetterWings",
         "x_screenshot": "https://spacedock.info/content/RocketInMyPocket_17959/WetterWings/WetterWings-1516382064.2011807.png"
     },
     "version": "Version_1",
-    "ksp_version": "1.4.5",
+    "ksp_version": "1.7.3",
     "depends": [
         {
             "name": "ModuleManager"

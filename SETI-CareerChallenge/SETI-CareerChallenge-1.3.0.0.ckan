@@ -1,5 +1,5 @@
 {
-    "spec_version": 1,
+    "spec_version": "v1.4",
     "identifier": "SETI-CareerChallenge",
     "name": "SETI-CareerChallenge",
     "abstract": "Reduces experiment science by 70% to somewhat balance out the science gained from contracts in career mode, compared to science mode.",
@@ -7,7 +7,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130",
-        "repository": "https://github.com/Y3mo/SETI-CareerChallenge"
+        "repository": "https://github.com/Y3mo/SETI-CareerChallenge",
+        "metanetkan": "https://raw.githubusercontent.com/Y3mo/SETI-NetKAN/master/SETI-CareerChallenge.netkan"
     },
     "version": "1.3.0.0",
     "ksp_version_min": "1.0.0",

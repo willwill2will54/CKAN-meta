@@ -6,6 +6,7 @@
     "author": "Clockwork13",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/171930-131-kerbol/",
         "spacedock": "https://spacedock.info/mod/1732/Kerbol++",
         "x_screenshot": "https://spacedock.info/content/Clockwork13_5450/Kerbol/Kerbol-1521171259.0254483.png"
     },
@@ -25,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://spacedock.info/mod/1732/Kerbol++/download/1.03",
+    "download": "https://spacedock.info/mod/1732/Kerbol%2B%2B/download/1.03",
     "download_size": 35624,
     "download_hash": {
         "sha1": "1441AF2182FB191BE6BD7131005186BD7BFF357C",

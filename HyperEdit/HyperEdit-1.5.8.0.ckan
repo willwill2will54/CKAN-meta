@@ -15,19 +15,19 @@
         "homepage": "http://www.Kerbaltek.com/hyperedit"
     },
     "version": "1.5.8.0",
-    "ksp_version_min": "1.4.0",
-    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.7.99",
     "install": [
         {
             "file": "GameData/Kerbaltek",
             "install_to": "GameData"
         }
     ],
-    "download": "http://www.kerbaltek.com/_downloads/hyperedit/HyperEdit-1.5.8_for-KSP-1.4.4.zip",
-    "download_size": 119595,
+    "download": "https://www.kerbaltek.com/_downloads/hyperedit/HyperEdit-1.5.8_for-KSP-1.4.4.zip",
+    "download_size": 119598,
     "download_hash": {
-        "sha1": "935FDDFCC003D138530E8466A29691080F90EC24",
-        "sha256": "DFCB86C20F40B4AC00D330DAA8B41C77E422085A92B82D1398C3F4A467A5E95E"
+        "sha1": "3FB47074984E3651E597B04B10C1E426ABCAE091",
+        "sha256": "CC231608F6D12CD5057D959F7CD8EC3577A8AC239B30E3CA16F74477DAC96334"
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"

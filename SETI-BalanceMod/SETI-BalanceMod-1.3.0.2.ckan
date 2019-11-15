@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.2",
+    "spec_version": "v1.4",
     "identifier": "SETI-BalanceMod",
     "name": "SETI-Rebalance",
     "abstract": "Former SETI-BalanceMod. Introduces (non realism overhaul) balance to KSP. Best installed via CKAN, just select it there and it will recommend all the other mods which are supported by it.",
@@ -11,6 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130",
         "spacedock": "https://spacedock.info/mod/14/SETI-Rebalance",
+        "metanetkan": "https://raw.githubusercontent.com/Y3mo/SETI-NetKAN/master/SETI-BalanceMod.netkan",
         "x_screenshot": "https://spacedock.info/content/Y3mo_158/SETI-Rebalance/SETI-Rebalance-1455815229.1514788.jpg"
     },
     "version": "1.3.0.2",

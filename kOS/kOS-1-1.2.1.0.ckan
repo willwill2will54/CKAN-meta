@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "kOS",
+    "name": "kOS: Scriptable Autopilot System",
+    "abstract": "kOS is a scriptable autopilot Mod for Kerbal Space Program. It allows you write small programs that automate specific tasks.",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://ksp-kos.github.io/KOS_DOC/",
+        "repository": "https://github.com/KSP-KOS/KOS",
+        "manual": "http://ksp-kos.github.io/KOS_DOC/",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-KOS/KOS/master/kOS.netkan"
+    },
+    "version": "1:1.2.1.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.8.99",
+    "recommends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.6",
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes."
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RemoteTech",
+            "min_version": "1.5.1",
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/KSP-KOS/KOS/releases/download/v1.2.1.0/kOS-v1.2.1.0.zip",
+    "download_size": 3072812,
+    "download_hash": {
+        "sha1": "642F1A6CC070FF918F0D09E018D558D906516814",
+        "sha256": "3D04DA4C288375DF8444B56F96A6D47EFE58B4E5B98DE53CD98C0E5B99C21CA1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
